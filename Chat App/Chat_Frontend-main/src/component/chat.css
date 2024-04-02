@@ -1,0 +1,42 @@
+
+.App {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  input[type="text"] {
+    padding: 8px;
+    margin-right: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    padding: 8px 16px;
+    background-color: #32bfc1;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #65a1e2;
+  }
+  
+  .messages {
+    margin-top: 20px;
+  }
+  
+  .messages > div {
+    margin-bottom: 8px;
+    padding: 8px;
+    background-color: #989696;
+    border-radius: 4px;
+  }
+  
